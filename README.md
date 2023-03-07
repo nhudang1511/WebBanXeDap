@@ -1,5 +1,5 @@
 # WebBanXeDap
-Đồ án môn Bảo mật Web
+Đồ án môn Bảo mật Web nhóm 6 CT6
 
 Hướng dẫn Demo
 
